@@ -15,5 +15,3 @@
 - Machine Learning: 🤖 Familiaridade com Scikit-learn, 🧠 TensorFlow, 🧬 Keras;
 - Ferramentas de Visualização: 📊 Microsoft Power BI, 📈 Matplotlib, 🌟 Seaborn;
 
-## Estatísticas do GitHub
-!Estatísticas do GitHub de idarlenearaujo
